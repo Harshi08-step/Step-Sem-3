@@ -20,4 +20,4 @@ class Marks{
 
         m.calculate();
     }
-}
+} 
